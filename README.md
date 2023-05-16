@@ -1,0 +1,2 @@
+# edytorZdjec
+Edytor zdjęć
